@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Fruit Shop - Admin</string>
+    <string name="admin_login">ADMIN LOGIN</string>
+    <string name="admin_dashboard_title">ADMIN DASHBOARD</string>
+    <string name="add_product_title">ADD PRODUCT</string>
+    <string name="manage_users_title">MANAGE USERS</string>
+    <string name="manage_product_title">MANAGE PRODUCT</string>
+    <string name="add_category_title">ADD CATEGORY</string>
+    <string name="edit_product">EDIT PRODUCT</string>
+    <string name="manage_orders_title">MANAGE ORDERS</string>
+    <string name="login">Login</string>
+    <string name="btn_add_product">Add Product</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="add_image">Add Image</string>
+    <string name="product_name">Product Name</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="qty">Qty</string>
+    <string name="description">Description</string>
+    <string name="category_name">Category Name</string>
+    <string name="add_category">Add Category</string>
+    <string name="all_categories">All Categories</string>
+    <string name="verification_code_btn">Verify Verification Code</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="first_name">First Name</string>
+    <string name="mobile">Mobile</string>
+
+</resources>
